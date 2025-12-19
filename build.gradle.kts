@@ -31,7 +31,7 @@ publishing {
         create<MavenPublication>("mavenJava") {
             from(components["java"])
             groupId = "com.github.daria-smirnovaa"
-            artifactId = "Common"
+            artifactId = "common"
             version = "v1.0.0"
         }
     }
