@@ -32,7 +32,7 @@ publishing {
             from(components["java"])
             groupId = "com.github.daria-smirnovaa"
             artifactId = "Common"
-            version = "1.0.0"
+            version = "v1.0.0"
         }
     }
 }
